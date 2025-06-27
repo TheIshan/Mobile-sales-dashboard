@@ -1,6 +1,6 @@
 # 📊 Motorola Mobile Sales Dashboard
 
-![Dashboard Screenshot](./Screenshot%202025-06-27%20201026.png)
+![Dashboard Screenshot]([./Screenshot%202025-06-27%20201026.png](https://github.com/TheIshan/Mobile-sales-dashboard/blob/main/Image.png))
 
 ## Overview
 
@@ -40,12 +40,3 @@ This Power BI dashboard presents a comprehensive analysis of **Motorola mobile s
 3. Use the slicers on the left to filter data by month, brand, model, etc.
 4. Explore visual insights through the interactive dashboard.
 
-## Screenshot
-
-Included below is a preview of the dashboard:
-
-![Dashboard Screenshot](./Screenshot%202025-06-27%20201026.png)
-
----
-
-Feel free to contribute or fork this repository if you'd like to build on top of this dashboard!
