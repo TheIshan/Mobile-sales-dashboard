@@ -1,62 +1,51 @@
+# 📊 Motorola Mobile Sales Dashboard
 
-Retail Sales Dashboard
-This repository contains a dynamic and interactive Retail Sales Dashboard created using Power BI. The dashboard provides comprehensive insights into sales performance, customer behavior, and transaction trends, enabling data-driven decision-making.
+![Dashboard Screenshot](./Screenshot%202025-06-27%20201026.png)
 
-Dashboard Overview
-The dashboard offers a holistic view of key retail metrics, allowing users to explore data from various perspectives. It includes visualizations for:
+## Overview
 
-Total Sales, Quantity, Transactions, and Average Transaction Value: High-level summaries of core business metrics.
+This Power BI dashboard presents a comprehensive analysis of **Motorola mobile sales** across various Indian cities. It highlights key metrics such as total sales, quantity sold, transactions, customer ratings, and preferred payment methods.
 
-Sales by City: A geographical distribution of sales, highlighting top-performing regions.
+## Features
 
-Total Quantity by Month and Day: Trends in sales volume over time, with a focus on monthly and daily patterns.
+- 💰 **Total Sales**: ₹769M across multiple mobile brands.
+- 📦 **Total Quantity Sold**: 19,000+ units.
+- 🔄 **Total Transactions**: 4,000+ recorded transactions.
+- 📊 **Average Sales per Transaction**: ₹40K.
+- 🗺️ **Geographical Sales**: Map showing total sales distribution by city (e.g., Delhi, Mumbai, Bangalore, etc.).
+- 📅 **Sales Trends Over Time**: Line chart displaying daily quantity sold across January and early February.
+- 🌟 **Customer Ratings**: Breakdown of ratings from 1 to 5 stars.
+- 💳 **Transactions by Payment Method**: UPI, Debit Card, Credit Card, and Cash.
+- 📱 **Top Mobile Models by Sales**: iPhone SE, OnePlus, and Galaxy series.
+- 🕒 **Sales by Day of the Week**: Sales pattern across days (highest on Saturday, lowest on Wednesday).
 
-Customer Ratings: Insights into customer satisfaction levels.
+## Filters Included
 
-Transactions by Payment Method: A breakdown of transactions based on the payment methods used, revealing preferred payment channels.
+- 📆 Month Selector (January to December)
+- 📱 Mobile Model
+- 💳 Payment Method
+- 🏷️ Brand
+- 📅 Day Name
 
-Total Sales by Brand: Performance of different mobile phone brands in terms of sales.
+## Tools Used
 
-Total Sales by Mobile Model: Detailed sales figures for individual mobile phone models.
+- [Microsoft Power BI](https://powerbi.microsoft.com/)
+- Data Modeling & DAX for calculations
+- Custom visuals and slicers for interactivity
 
-Total Sales by Day Name: Daily sales patterns, indicating peak sales days.
+## How to Use
 
-Features
-Interactive Visualizations: All charts and graphs are interactive, allowing users to filter and drill down into specific data points.
+1. Clone this repository.
+2. Open the `.pbix` file in Power BI Desktop.
+3. Use the slicers on the left to filter data by month, brand, model, etc.
+4. Explore visual insights through the interactive dashboard.
 
-Key Performance Indicators (KPIs): Clearly displayed KPIs for quick understanding of overall performance.
+## Screenshot
 
-Time-Series Analysis: Visualizations to track sales and quantity trends over time.
+Included below is a preview of the dashboard:
 
-Geographical Analysis: A map visualization to understand sales distribution across different cities.
+![Dashboard Screenshot](./Screenshot%202025-06-27%20201026.png)
 
-Customer Behavior Insights: Data on customer ratings and preferred payment methods.
+---
 
-Brand and Product Performance: Detailed breakdowns of sales by brand and mobile model.
-
-Screenshot
-Below is a screenshot of the dashboard, showcasing its design and the types of insights it provides:
-
-How to Use
-To explore the dashboard:
-
-Download/Clone this repository: Get a copy of the project files to your local machine.
-
-Open with Power BI Desktop: The [Your Dashboard File Name].pbix (you'll need to replace this with your actual Power BI file name) file can be opened directly with Power BI Desktop.
-
-Interact with the Dashboard: Use the various slicers, filters, and interactive elements to explore the data.
-
-Data Source
-The dashboard is built upon [mention your data source, e.g., a simulated retail sales dataset, a CSV file, a database, etc. Briefly describe the type of data if possible].
-
-Technologies Used
-Microsoft Power BI Desktop: For data modeling, visualization, and dashboard creation.
-
-Future Enhancements (Optional)
-[List any future features you plan to add, e.g., "Add more detailed customer demographics," "Integrate with live data sources," "Implement advanced analytics models."]
-
-Contributions
-Feel free to fork this repository and contribute to its improvement.
-
-Contact
-For any questions or suggestions, please feel free to reach out.
+Feel free to contribute or fork this repository if you'd like to build on top of this dashboard!
