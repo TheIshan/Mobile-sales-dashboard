@@ -1,6 +1,6 @@
 # 📊 Motorola Mobile Sales Dashboard
 
-![Dashboard Screenshot]([./Screenshot%202025-06-27%20201026.png](https://github.com/TheIshan/Mobile-sales-dashboard/blob/main/Image.png))
+![Dashboard Screenshot](https://github.com/TheIshan/Mobile-sales-dashboard/blob/main/Image.png)
 
 ## Overview
 
